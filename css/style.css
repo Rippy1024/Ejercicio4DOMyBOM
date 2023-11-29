@@ -1,0 +1,11 @@
+main {
+    height: 550px;
+    background-image: url(../img/fondoTiempo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fondoReloj{
+    background: #0d0d69;
+    border-color:grey;
+}
